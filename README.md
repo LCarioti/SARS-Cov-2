@@ -12,24 +12,24 @@ These scripts depends on the following Python (3.6.7) packages: Pandas(0.25.3), 
 ./ScriptOne.exe
 
 # Output
-csv files
+CSV files
 
-CFR-Top20.csv: case fatality rate top 20 countries
-Death100000-TOP20.csv:  deaths / 100000 top 20 countries
-Top20.csv: total infections top 20 countries
-Top20Daily.csv: daily infections top 20 countries
-Top20Daily-Death.csv: daily percentage infections increase top 20 countries
-Top20DayPerc.csv: total deaths top 20 countries
-Top20DayPerc-Death.csv: daily deaths top 20 countries
-Top20-Death.csv: daily percentage deaths increase top 20 countries
+* CFR-Top20.csv: case fatality rate top 20 countries
+* Death100000-TOP20.csv:  deaths / 100000 top 20 countries
+* Top20.csv: total infections top 20 countries
+* Top20Daily.csv: daily infections top 20 countries
+* Top20Daily-Death.csv: daily percentage infections increase top 20 countries
+* Top20DayPerc.csv: total deaths top 20 countries
+* Top20DayPerc-Death.csv: daily deaths top 20 countries
+* Top20-Death.csv: daily percentage deaths increase top 20 countries
 
-graph files
-Top20.png
-Top20Daily.png
-Top20DailyBar.png
-Top20DailyPercentage.png
-Top20-Death.png
-Top20Daily-Death.png
-Top20DailyBar-Death.png
-Top20DailyPerc-Death.png
-WorldMap.png
+PNG files
+* Top20.png
+* Top20Daily.png
+* Top20DailyBar.png
+* Top20DailyPercentage.png
+* Top20-Death.png
+* Top20Daily-Death.png
+* Top20DailyBar-Death.png
+* Top20DailyPerc-Death.png
+* WorldMap.png
