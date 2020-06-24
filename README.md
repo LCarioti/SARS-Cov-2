@@ -33,3 +33,6 @@ PNG files
 * Top20DailyBar-Death.png
 * Top20DailyPerc-Death.png
 * WorldMap.png
+
+# World Map
+https://user-images.githubusercontent.com/34098826/85599401-c2c9db80-b64c-11ea-84da-5a9274ceceaf.png
