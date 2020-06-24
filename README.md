@@ -35,4 +35,4 @@ PNG files
 * WorldMap.png
 
 # World Map
-https://user-images.githubusercontent.com/34098826/85599401-c2c9db80-b64c-11ea-84da-5a9274ceceaf.png
+![WorldMap](https://user-images.githubusercontent.com/34098826/85599401-c2c9db80-b64c-11ea-84da-5a9274ceceaf.png)
