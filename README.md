@@ -35,4 +35,5 @@ PNG files
 * 14DaysDeathPercentageEU.png
 
 EU Map
-![EU MAP](https://github.com/LCarioti/SARS-Cov-2/issues/2#issue-1092186899)
+![EuInfection](https://user-images.githubusercontent.com/34098826/147897088-d7dabca8-c9f0-4a22-a84a-57fc853d47d7.png)
+
