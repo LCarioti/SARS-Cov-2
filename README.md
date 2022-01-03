@@ -33,4 +33,5 @@ PNG files
 * DailyDeathEU.png
 * DailyDeathBarEu.png
 * 14DaysDeathPercentageEU.png
-
+EU Map
+https://github.com/LCarioti/SARS-Cov-2/issues/2#issue-1092186899
