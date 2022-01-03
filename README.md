@@ -14,7 +14,7 @@ These scripts depend on the following Python (3.8.5) packages: Pandas(1.2.3), nu
 # Output
 CSV files
 
-* EuRatioM.csv: Infection / 1000000 , Deaths /1000000 in EU countries
+* EuNumbers.csv: EU population, Total Infections, Total Deaaths, Infection / 1000000 , Deaths /1000000 and CFR
 * cumSumC.csv: total infections top in EU countries
 * dailyC.csv: daily infections in EU countries
 * PctC.csv: 14 days percentage infections increase in EU countries
@@ -32,7 +32,11 @@ PNG files
 * DailyDeathEU.png
 * DailyDeathBarEu.png
 * 14DaysDeathPercentageEU.png
+* EuInfection.png
+* EuDeaths.png
+* EuCFR.png
 
-EU Map
-![EuInfection](https://user-images.githubusercontent.com/34098826/147897088-d7dabca8-c9f0-4a22-a84a-57fc853d47d7.png)
+EU CFR Map
+
+![EuCFR](https://user-images.githubusercontent.com/34098826/147948276-2bb3cffe-eea0-48da-96d9-4329a470a2ae.png)
 
