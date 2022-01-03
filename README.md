@@ -5,7 +5,7 @@ These are simple scripts to analyze ecdc's SARS-Cov-2 data (https://www.ecdc.eur
 
 # Installation
 
-These scripts depends on the following Python (3.8.5) packages: Pandas(1.2.3), numpy(1.20.1) and R (4.1.2) packages: plyr(1.8.6), viridis(0.6.1), viridisLite(0.4.0), maps(3.4.0), dplyr(1.0.6), scales(1.1.1), reshape2(1.4.4), ggplot2(3.3.3),  and run under Linux(Ubuntu 20.04.3 LTS)
+These scripts depend on the following Python (3.8.5) packages: Pandas(1.2.3), numpy(1.20.1) and R (4.1.2) packages: plyr(1.8.6), viridis(0.6.1), viridisLite(0.4.0), maps(3.4.0), dplyr(1.0.6), scales(1.1.1), reshape2(1.4.4), ggplot2(3.3.3),  and run under Linux(Ubuntu 20.04.3 LTS)
 
 # Usage example
 
