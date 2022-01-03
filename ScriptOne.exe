@@ -1,0 +1,13 @@
+#!/bin/bash
+
+
+R CMD BATCH download.R
+
+python Dataframe.py
+
+R CMD BATCH ConfLine.R
+
+R CMD BATCH DeatLine.R
+
+R CMD BATCH map.R
+
