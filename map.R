@@ -19,7 +19,6 @@ ggplot(eu.map,aes(long, lat,group = group))+ geom_polygon(aes(fill =InfectRatio)
 ggsave('EuInfection.png',dpi=600, width= 37, height=17, units='cm')
 ggplot(eu.map,aes(long, lat,group = group))+ geom_polygon(aes(fill =DeathRatio),  color = "black")+scale_fill_viridis_c(option = "inferno", na.value = 'white', direction = -1 ) + labs(fill="Deaths\n  per\n million") + ylim(30,75)
 ggsave('EuDeaths.png',dpi=600, width= 37, height=17, units='cm')
-
 ggplot(eu.map,aes(long, lat,group = group))+ geom_polygon(aes(fill = CFR),  color = "black")+scale_fill_viridis_c(option = "turbo", na.value = 'white', direction = -1 ) + labs(fill="CFR") + ylim(30,75)
 ggsave('EuCFR.png',dpi=600, width= 37, height=17, units='cm')
 
