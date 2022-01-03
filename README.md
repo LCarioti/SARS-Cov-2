@@ -14,14 +14,13 @@ These scripts depend on the following Python (3.8.5) packages: Pandas(1.2.3), nu
 # Output
 CSV files
 
-* EuRatioM.csv: Infection / 1000000 , Deaths /1000000 EU countries
-* Death100000-TOP20.csv:  deaths / 100000 top 20 countries
-* cumSumC.csv: total infections top EU countries
-* dailyC.csv: daily infections EU countries
-* PctC.csv: 14 days percentage infections increase EU countries
-* cumSumD.csv: total deaths EU countries
-* dailyD.csv: daily deaths EU countries
-* PctC.csv: daily percentage deaths increase top 20 countries
+* EuRatioM.csv: Infection / 1000000 , Deaths /1000000 in EU countries
+* cumSumC.csv: total infections top in EU countries
+* dailyC.csv: daily infections in EU countries
+* PctC.csv: 14 days percentage infections increase in EU countries
+* cumSumD.csv: total deaths in EU countries
+* dailyD.csv: daily deaths in EU countries
+* PctC.csv: 14 days percentage deaths increase in EU countries
 
 
 PNG files
